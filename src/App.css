@@ -34,7 +34,7 @@ height: 100%; */
 .avatar-img {
   height: 250px;
   /* padding: 5em; */
-  border-radius: 5% ;
+  border-radius: 50% ;
   margin-top: 40px;
   border: rgb(31, 82, 97) solid 5px;
   
@@ -50,15 +50,15 @@ height: 100%; */
   background-color: rgb(18, 47, 56);
   opacity: .8;
   width: 75%;
-  margin: auto;
+  margin: 10%;
   border-radius: 10px;
 }
 
 .banner-text h1 {
-  font-size: 66px;
+  font-size: 50px;
   font-weight: bold;
   color: white;
-  padding: 1em;
+  /* padding: 1em; */
 }
 
 .banner-text hr {

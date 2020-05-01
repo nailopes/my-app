@@ -7,12 +7,15 @@ class Mainpage extends Component {
             <div style={{width: '100%', margin: 'auto'}}>
              <Grid className="mainpage-grid">
                  <Cell col={12}>
+                     
+                     <div className="banner-text">
+                    
                      <img
                          src="https://media-exp1.licdn.com/dms/image/C4D03AQHuU47ZvdT38Q/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=mlppRNFylUiQYN49AGVeN_MAIqHGz2yaI5EAtKhr-I4"
                          alt="avatar"
                          className="avatar-img"
                      />
-                     <div className="banner-text">
+                     <h1>Naiara Lopes</h1>
                       <h1>Front End Web Developer</h1>
                       
 

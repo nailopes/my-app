@@ -11,7 +11,7 @@ import Projects from './projects';
 
 const Mainheader = () => (
     <Switch>
-        <Route path="/" component={MainPage} />
+        <Route exact path="/"  component={MainPage} />
         <Route path="/aboutme" component={AboutMe} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
